@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wouteryvz&label=Verschillende%20soorten%20griep&color=941e00&style=flat" alt="wouteryvz" /> </p>
 
 
-- 🔭 Op dit moment ben ik bezig met [Project X](tbd) 
+- 🔭 Working on [Project X](tbd) 👀
 
 - ⚡ Fun fact **Ik wil echt wel graag dood**
 
